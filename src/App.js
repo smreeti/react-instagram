@@ -2,13 +2,13 @@ import React from 'react';
 import './App.css';
 import './style.css';
 import Header from "./components/Header";
-import Post from "./components/Post";
+import Home from "./components/Home";
 
 function App() {
     return (
         <div>
             <Header/>
-            <Post/>
+            <Home/>
         </div>
     );
 }
