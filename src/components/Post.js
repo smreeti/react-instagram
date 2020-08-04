@@ -35,9 +35,6 @@ const Post = () => {
                                      "https://instagram.fktm3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/71119752_414306915937766_4106866828154765312_n.jpg?_nc_ht=instagram.fktm3-1.fna.fbcdn.net&_nc_ohc=niehx5yOJD4AX9jJN7i&oh=e8cd8bfac8b862df93e3651a034119b6&oe=5F50B432"
                                  alt="smreeti"/>
                         </div>
-                        <div className="Post-user-nickname">
-                            <span>sabu_shakya</span>
-                        </div>
                     </div>
                 </header>
                 <div className="Post-image">
@@ -47,6 +44,11 @@ const Post = () => {
                     </div>
                 </div>
                 <div className="Post-caption">
+
+s
+                    <button className="fa fa-heart" >Button
+                        <i className="fa fa-heart"/></button>
+                   <br/>
                     <strong>sabu_shakya</strong> ~ Blue! :)
                 </div>
             </article>
